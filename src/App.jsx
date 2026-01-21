@@ -8,6 +8,7 @@ import Navbar from "./components/navbar";
 import AboutOurApps from "./sections/about-our-apps";
 import HeroSection from "./sections/hero-section";
 import OurLatestCreation from "./sections/our-latest-creation";
+import { SpeedInsights } from "@vercel/speed-insights/react";
 
 export default function Page() {
     return (
@@ -22,6 +23,7 @@ export default function Page() {
                 <TrustedCompanies />
                 <GetInTouch />
                 <SubscribeNewsletter />
+                <SpeedInsights />
             </main>
             <Footer />
         </>
