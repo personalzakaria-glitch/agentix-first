@@ -13,7 +13,7 @@ export default function Footer() {
                     <a href="https://prebuiltui.com?utm_source=agentix">
                         <img className="h-9 w-auto" src="/assets/logo.svg" width={138} height={36} alt="logo" />
                     </a>
-                    <p className="text-sm/7 mt-6">PrebuiltUI is a free and open-source UI component library with over 300+ beautifully crafted, customizable components built with Tailwind CSS.</p>
+                    <p className="text-sm/7 mt-6">This website is a project. Made by North Web Development Business</p>
                 </div>
                 <div className="flex flex-col lg:items-center lg:justify-center">
                     <div className="flex flex-col text-sm space-y-2.5">
@@ -36,7 +36,7 @@ export default function Footer() {
                 </div>
             </div>
             <p className="py-4 text-center border-t mt-6 border-slate-700">
-                Copyright 2025 © <a href="https://prebuiltui.com?utm_source=agentix">PrebuiltUI</a> All Right Reserved.
+                Copyright 2025 © <a href="https://prebuiltui.com?utm_source=agentix">North</a> All Right Reserved.
             </p>
         </motion.footer>
     );

@@ -31,7 +31,7 @@ export default function Navbar() {
                 viewport={{ once: true }}
                 transition={{ type: "spring", stiffness: 250, damping: 70, mass: 1 }}
             >
-                <a href="https://prebuiltui.com?utm_source=agentix">
+                <a href="">
                     <img className="h-9 w-auto" src="/assets/logo.svg" width={138} height={36} alt="logo" />
                 </a>
 
