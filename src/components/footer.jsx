@@ -10,7 +10,7 @@ export default function Footer() {
         >
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-14">
                 <div className="sm:col-span-2 lg:col-span-1">
-                    <a href="https://prebuiltui.com?utm_source=agentix">
+                    <a href="">
                         <img className="h-9 w-auto" src="/assets/logo.svg" width={138} height={36} alt="logo" />
                     </a>
                     <p className="text-sm/7 mt-6">This website is a project. Made by North Web Development Business</p>
@@ -36,7 +36,7 @@ export default function Footer() {
                 </div>
             </div>
             <p className="py-4 text-center border-t mt-6 border-slate-700">
-                Copyright 2025 © <a href="https://prebuiltui.com?utm_source=agentix">North</a> All Right Reserved.
+                Copyright 2025 © <a href="">North</a> All Right Reserved.
             </p>
         </motion.footer>
     );
