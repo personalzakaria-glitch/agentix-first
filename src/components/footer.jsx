@@ -36,7 +36,7 @@ export default function Footer() {
                 </div>
             </div>
             <p className="py-4 text-center border-t mt-6 border-slate-700">
-                Copyright 2025 © <a href="">North</a> All Right Reserved.
+                Copyright 2026 © <a href="">North</a> All Right Reserved.
             </p>
         </motion.footer>
     );

@@ -14,7 +14,7 @@ export default function TrustedCompanies() {
                 <div className="absolute pointer-events-none top-10 -z-1 left-20 size-64 bg-gradient-to-br from-[#536DFF] to-[#4F39F6]/60 blur-[180px]"></div>
                 <div className="absolute pointer-events-none bottom-10 -z-1 right-20 size-64 bg-gradient-to-br from-[#536DFF] to-[#4F39F6]/60 blur-[180px]"></div>
                 <div className="flex flex-col items-center md:items-start max-md:text-center">
-                    <a href="https://prebuiltui.com" className="group flex items-center gap-2 rounded-full text-sm p-1 pr-3 text-indigo-300 bg-indigo-200/15">
+                    <a href="" className="group flex items-center gap-2 rounded-full text-sm p-1 pr-3 text-indigo-300 bg-indigo-200/15">
                         <span className="bg-indigo-600 text-white text-xs px-3.5 py-1 rounded-full">
                             NEW
                         </span>

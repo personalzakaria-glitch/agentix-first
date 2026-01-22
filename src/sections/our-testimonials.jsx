@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 
 export default function OurTestimonials() {
     const testimonials = [
-        { quote: "Super clean and easy to use. These Tailwind + React components saved me hours of dev time!", name: "Richard Nelson", role: "AI Content Marketer", image: "https://images.unsplash.com/photo-1633332755192-727a05c4013d?q=80&w=200", },
+        { quote: "Super clean and easy to use. These designs saved me hours of dev time!", name: "Richard Nelson", role: "AI Content Marketer", image: "https://images.unsplash.com/photo-1633332755192-727a05c4013d?q=80&w=200", },
         { quote: "The design quality is top-notch. Perfect balance between simplicity and style. Highly recommend!", name: "Sophia Martinez", role: "UI/UX Designer", image: "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=200", },
         { quote: "Absolutely love the reusability of these components. My workflow feels 10x faster now.", name: "Ethan Roberts", role: "Frontend Developer", image: "https://images.unsplash.com/photo-1527980965255-d3b416303d12?w=200&auto=format&fit=crop&q=60", },
         { quote: "Clean, elegant, and efficient. These components are a dream for any modern web developer.", name: "Isabella Kim", role: "Product Designer", image: "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=200&auto=format&fit=crop&q=60", },
